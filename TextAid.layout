@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="ArgOption.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="3156" topLine="8" />
+	</File>
+	<File name="ArgOption.h" open="1" top="0" tabpos="5">
+		<Cursor position="240" topLine="0" />
+	</File>
+	<File name="GUIDialog.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="14050" topLine="231" />
+	</File>
+	<File name="GUIDialog.h" open="1" top="1" tabpos="7">
+		<Cursor position="342" topLine="1" />
+	</File>
+	<File name="IncreaseRule.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="123" topLine="26" />
+	</File>
+	<File name="IncreaseRule.h" open="0" top="0" tabpos="0">
+		<Cursor position="801" topLine="15" />
+	</File>
+	<File name="InsertString.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="512" topLine="0" />
+	</File>
+	<File name="InsertString.h" open="0" top="0" tabpos="10">
+		<Cursor position="550" topLine="11" />
+	</File>
+	<File name="RanRule.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="321" topLine="6" />
+	</File>
+	<File name="RanRule.h" open="0" top="0" tabpos="5">
+		<Cursor position="354" topLine="1" />
+	</File>
+	<File name="RuleBase.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="416" topLine="19" />
+	</File>
+	<File name="RuleBase.h" open="0" top="0" tabpos="6">
+		<Cursor position="336" topLine="0" />
+	</File>
+	<File name="StdAfx.h" open="0" top="0" tabpos="0">
+		<Cursor position="154" topLine="0" />
+	</File>
+	<File name="TextAidApp.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="573" topLine="0" />
+	</File>
+	<File name="TextAidApp.h" open="0" top="0" tabpos="0">
+		<Cursor position="413" topLine="0" />
+	</File>
+	<File name="TextAidMain.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1547" topLine="54" />
+	</File>
+	<File name="TextAidMain.h" open="1" top="0" tabpos="3">
+		<Cursor position="520" topLine="7" />
+	</File>
+	<File name="WxWizDialog.fbp" open="0" top="0" tabpos="0">
+		<Cursor position="77569" topLine="1091" />
+	</File>
+</CodeBlocks_layout_file>

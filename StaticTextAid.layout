@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="ArgOption.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="100" topLine="0" />
+	</File>
+	<File name="ArgOption.h" open="0" top="0" tabpos="1">
+		<Cursor position="111" topLine="0" />
+	</File>
+	<File name="GUIDialog.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="5584" topLine="102" />
+	</File>
+	<File name="GUIDialog.h" open="0" top="0" tabpos="2">
+		<Cursor position="3411" topLine="83" />
+	</File>
+	<File name="IncreaseRule.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="476" topLine="6" />
+	</File>
+	<File name="IncreaseRule.h" open="0" top="0" tabpos="6">
+		<Cursor position="632" topLine="9" />
+	</File>
+	<File name="InsertString.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="27" topLine="28" />
+	</File>
+	<File name="InsertString.h" open="0" top="0" tabpos="1">
+		<Cursor position="179" topLine="4" />
+	</File>
+	<File name="RanRule.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="514" topLine="20" />
+	</File>
+	<File name="RuleBase.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="220" topLine="18" />
+	</File>
+	<File name="TextAidMain.cpp" open="1" top="1" tabpos="0">
+		<Cursor position="634" topLine="24" />
+	</File>
+	<File name="TextAidMain.h" open="0" top="0" tabpos="3">
+		<Cursor position="1450" topLine="13" />
+	</File>
+</CodeBlocks_layout_file>
